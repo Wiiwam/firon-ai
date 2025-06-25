@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firon-ai/static/css/main.e6c13ad2.css",
+    "main.js": "/firon-ai/static/js/main.4b55f1dd.js",
+    "static/js/453.944ae518.chunk.js": "/firon-ai/static/js/453.944ae518.chunk.js",
+    "index.html": "/firon-ai/index.html",
+    "main.e6c13ad2.css.map": "/firon-ai/static/css/main.e6c13ad2.css.map",
+    "main.4b55f1dd.js.map": "/firon-ai/static/js/main.4b55f1dd.js.map",
+    "453.944ae518.chunk.js.map": "/firon-ai/static/js/453.944ae518.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4b55f1dd.js"
+  ]
+}
